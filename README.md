@@ -2,10 +2,6 @@
 
 This interactive Streamlit application allows users to effectively monitor stock market performance, track favorite stocks, view financial news, and manage investment notes in a clear and user-friendly interface.
 
-## Author
-
-**Jesus Casasanta**
-PID: 6450917
 
 ## Features
 
