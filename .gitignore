@@ -1,0 +1,26 @@
+# created by virtualenv automatically
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore environment folders
+.venv/
+venv/
+env/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files
+*.log
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore editor settings
+.vscode/
+.idea/
